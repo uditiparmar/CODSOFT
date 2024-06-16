@@ -6,4 +6,4 @@ Description: Welcome to the Codsoft Internship Data Science Repository! Here, yo
    
    Problem Statement: Build a model that will return a passengers survival chance given a passengers detail as input.
     
-Feel free to explore the code, datasets, and documentation provided in each project. Your feedback and insights are greatly appreciated as I continue to refine and expand my skills in the dynamic field of data science. Happy coding! 🚀📊
+Feel free to explore the code, and documentation provided in each project. Your feedback and insights are greatly appreciated as I continue to refine and expand my skills in the dynamic field of data science. Happy coding! 🚀📊
