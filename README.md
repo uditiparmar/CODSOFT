@@ -10,5 +10,10 @@ Description: Welcome to the Codsoft Internship Data Science Repository! Here, yo
 
    Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as
    advertising expenditure, target audience segmentation, and advertising platform selection.
+
+3. Movie Rating Prediction
+
+   Description: In this project, I built a movie rating prediction system using Python. The project includes data collection, preprocessing, and the development of a 
+   machine-learning model to predict movie ratings.
     
 Feel free to explore the code, and documentation provided in each project. Your feedback and insights are greatly appreciated as I continue to refine and expand my skills in the dynamic field of data science. Happy coding! 🚀📊
